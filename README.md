@@ -12,5 +12,5 @@ I used flowers-recognition database, this database contains only images of flowe
 To solve the problem I used a number of different models: **SVM**, **Random Forest**, **Neural Network** and **CNN**.
 
 #### Results:
-For details of all Mmdel results: 
+For details of all model results: 
 [link to report](report.pdf)
